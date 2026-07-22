@@ -39,8 +39,6 @@ Uma célula é identificada pela combinação entre a coluna e a linha.
 
 ![Célula A1](Imagens/01-celula-A1.png)
 
-- C5 → Coluna **C** + Linha **5**
-
 É nas células que os dados são inseridos, como textos, números, fórmulas e funções.
 
 ---
