@@ -1,6 +1,6 @@
 # Principais atalhos do Excel
 
-> **Data:** 19 de agosto de 2026
+> **Data:** 19 e 20 de agosto de 2026
 
 Os atalhos mais usados.
 
@@ -68,3 +68,15 @@ Para interromper a seleção, solte o Shift e utilize uma tecla de direção.
 `Ctrl + V` → cola o conteúdo copiado.  
 `Ctrl + X` → recorta o conteúdo selecionado.  
 `Ctrl + X + Ctrl + V` → move o conteúdo selecionado para outro local.
+
+### `Alt` - Acessar os menus pelo teclado
+
+Ao pressionar `Alt`, o Excel mostra letras e combinações de teclas sobre os elementos da faixa de opções. Essas letras permitem acessar os comandos utilizando **apenas o teclado**.
+
+aparecem letras sobre as opções da faixa de opções.
+
+Como sair desse modo?
+- Pressione `Alt` novamente; ou
+- Pressione `Esc`.
+
+Esse recurso permite navegar pelos menus e utilizar **diversas ferramentas do Excel sem precisar do mouse**, tornando o trabalho mais rápido quando você já conhece os atalhos.
