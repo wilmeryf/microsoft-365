@@ -49,7 +49,7 @@ A porcentagem do zoom aparece no canto inferior direito da janela.
 
 ### Seleção
 
-`Ctrl + T` → seleciona tudo, de acordo com o contexto da planilha.
+`Ctrl + T` → seleciona tudo, de acordo com o contexto da planilha.  
 `Shift + Setas` → seleciona células utilizando as teclas direcionais, sem precisar do mouse.
 
 Para interromper a seleção, solte o Shift e utilize uma tecla de direção.
