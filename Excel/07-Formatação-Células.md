@@ -57,7 +57,7 @@ O símbolo da moeda fica alinhado à esquerda da célula, enquanto o valor fica 
 
 Exemplo:
 
-![Formatação Contábil](Imagens/07-formatacao.png)
+![Formatação Contábil](Imagens/07-formatacao-contabil.png)
 
 **OBS:** o formato Contábil é bastante utilizado para apresentar valores financeiros de maneira organizada.
 
